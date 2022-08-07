@@ -31,7 +31,11 @@ Once the client is satisfied with the selected candidate and the calculated tota
 
 ![fintech_finder_web_interface3](Images/3.png)
 
-Following are screenshots of the client's account (index 0) from the Ganache accounts tab. They show the client's ethereum account address and their balance after completing the 1st (tx count) and 6th (tx count) send transactions.
+Following are screenshot of the client's account (index 0) from the Ganache accounts tab. They show the client's ethereum account address and their balance after completing  6th (tx count) send transactions.
+
+![fintech_finder_ganache_account](Images/6.png)
+
+Lastly, the screenshots below are of the transaction details from the Ganache transactions tab of the 1st and 6th send transactions. They show the transaction hash, the client's (sender) address, the fintech professional's (to contract) address, the value in Ether that was sent to the fintech professional's address, and the block in which the transaction was mined. 
 
 ![fintech_finder_ganache_account](Images/4.png)
 
